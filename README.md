@@ -83,7 +83,8 @@ NA
 
 ## Kontak
 
-condro.wiyono@ui.ac.id
+1. condro.wiyono@ui.ac.id
+2. afganta.chezar@office.ui.ac.id
 
 ---
 
