@@ -1,0 +1,6 @@
+[submodule "library/thread"]
+	path = library/thread
+	url = git@github.com:condrowiyono/thread-sample.git
+[submodule "library/gmaps-review"]
+	path = library/gmaps-review
+	url = git@github.com:condrowiyono/google-maps-review-cypress.git
